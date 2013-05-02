@@ -1,0 +1,10 @@
+{
+  "name": "Project Name",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "git://github.com/twitter/bootstrap.git",
+    "html5-boilerplate": "latest",
+    "normalize-css": "latest"
+  }
+}
