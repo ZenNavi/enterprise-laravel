@@ -6,6 +6,14 @@
     "bootstrap": "git://github.com/twitter/bootstrap.git",
     "html5-boilerplate": "latest",
     "normalize-css": "latest",
-    "jquery.lazyload": "latest"
+    "jquery.lazyload": "latest",
+    "FitVids.js": "git@github.com:davatron5000/FitVids.js.git#~1.0.2",
+    "jquery-anystretch": "git@github.com:danmillar/jquery-anystretch.git#~1.2.5",
+    "slabText": "git@github.com:freqdec/slabText.git#~2.2.0",
+    "breakpoints": "git@github.com:xoxco/breakpoints.git",
+    "jQuery-Flex-Vertical-Center": "git@github.com:PaulSpr/jQuery-Flex-Vertical-Center.git",
+    "FitText.js": "git@github.com:davatron5000/FitText.js.git",
+    "ResponsiveSlides.js": "git@github.com:viljamis/ResponsiveSlides.js.git",
+    "HorizontalNav": "git@github.com:sebnitu/HorizontalNav.git#~1.0.0"
   }
 }
