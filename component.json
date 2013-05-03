@@ -5,6 +5,7 @@
     "jquery": "latest",
     "bootstrap": "git://github.com/twitter/bootstrap.git",
     "html5-boilerplate": "latest",
-    "normalize-css": "latest"
+    "normalize-css": "latest",
+    "jquery.lazyload": "latest"
   }
 }
