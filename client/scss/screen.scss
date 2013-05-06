@@ -1,3 +1,5 @@
 @import "compass/css3";
-@import "../components/normalize-css/normalize.css"
+@import "../components/normalize-css/normalize.css";
+@import "sprites/*.png"; //Image path to sprites.  Only needed if using Compass dynamic sprite generation.
 @import "mixins";
+@import "variables";
